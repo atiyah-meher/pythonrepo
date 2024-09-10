@@ -1,2 +1,2 @@
 # pythonrepo
-This repository contains python projects.
+This repository contains AI project built using Python.
